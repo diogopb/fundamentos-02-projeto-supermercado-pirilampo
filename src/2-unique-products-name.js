@@ -8,5 +8,5 @@ const getUniqueProductsName = () => {
   }
   return uniqueProducts;
 };
-console.log(uniqueProducts);
+
 module.exports = { getUniqueProductsName };
